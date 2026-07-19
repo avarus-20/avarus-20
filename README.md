@@ -48,7 +48,7 @@ A mobile nutrition diary built with React Native, Expo and TypeScript.
 
 ## Education
 
-- **Bachelor of Engineering, Information and Communication Technology** — Metropolia University of Applied Sciences, ongoing
+- **Bachelor of Engineering, Information and Communication Technology** — Metropolia University of Applied Sciences, ongoing; **204 of 240 ECTS completed, with 19 ECTS currently in progress**
 - **Further Vocational Qualification in Information and Communication Technology** — Finland, 150 competence points
 - **Specialist Degree in Law** — Saratov State Academy of Law, Russia
 - Russian legal education formally recognized in Finland by the Finnish National Agency for Education
