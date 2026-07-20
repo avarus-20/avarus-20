@@ -1,6 +1,6 @@
 # Hi, I'm Nail Mukhtarov
 
-ICT Engineering student at Metropolia University of Applied Sciences, building practical projects in Python backend development, AI-assisted systems, cybersecurity and web applications.
+ICT Engineering student at Metropolia University of Applied Sciences, building practical projects in Python backend development, AI-assisted systems, cybersecurity, web applications and WordPress support.
 
 Before moving into ICT, I built a professional background in legal practice, court-related work, advocacy and university teaching in Russia. I am also the author and co-author of legal academic publications, including a monograph. My long-term focus is the intersection of software, artificial intelligence, cybersecurity, LegalTech and RegTech.
 
@@ -13,6 +13,7 @@ Before moving into ICT, I built a professional background in legal practice, cou
 - AI agent systems and workflow automation
 - Authentication, RBAC and secure software design
 - Automated testing and technical documentation
+- WordPress support, maintenance and troubleshooting for small-business websites
 
 ## Selected projects
 
@@ -46,6 +47,18 @@ A mobile nutrition diary built with React Native, Expo and TypeScript.
 - **Status:** Prototype
 - **Core areas:** Expo Router, local storage, multilingual UI and offline-first data handling
 
+## WordPress freelance focus
+
+I am building a practical portfolio for WordPress support for small businesses and service providers.
+
+- Website maintenance, troubleshooting and safe updates
+- Backup, recovery and migration workflows
+- Basic performance and security improvements
+- Small service websites and landing pages
+- Multilingual websites in Finnish, Russian and English
+
+> Public WordPress case studies are being prepared.
+
 ## Education
 
 - **Bachelor of Engineering, Information and Communication Technology** — Metropolia University of Applied Sciences, ongoing; **204 of 240 ECTS completed, with 19 ECTS currently in progress**
@@ -62,7 +75,7 @@ A mobile nutrition diary built with React Native, Expo and TypeScript.
 
 ## Professional interests
 
-Python backend development, AI agents, cybersecurity, LegalTech, RegTech, compliance automation and secure digital services.
+Python backend development, AI agents, cybersecurity, WordPress support, LegalTech, RegTech, compliance automation and secure digital services.
 
 ## Contact
 
