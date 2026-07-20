@@ -48,13 +48,6 @@ A private desktop application for managing customer records in a MySQL database.
 - **Core areas:** Python, MySQL Connector, SQL CRUD operations, parameterized queries and PySimpleGUI
 - **Features:** Search, add, edit and delete customer records
 
-### Nutrition App
-
-A mobile nutrition diary built with React Native, Expo and TypeScript.
-
-- **Status:** Prototype
-- **Core areas:** Expo Router, local storage, multilingual UI and offline-first data handling
-
 ## WordPress freelance focus
 
 I am building a practical portfolio for WordPress support for small businesses and service providers.
