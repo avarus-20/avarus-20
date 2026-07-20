@@ -2,6 +2,8 @@
 
 ICT Engineering student at Metropolia University of Applied Sciences, building practical projects in Python backend development, AI-assisted systems, cybersecurity, web applications and WordPress support.
 
+Current direction: secure Python and web systems, AI-assisted workflows, website auditing, and WordPress maintenance for small businesses.
+
 Before moving into ICT, I built a professional background in legal practice, court-related work, advocacy and university teaching in Russia. I am also the author and co-author of legal academic publications, including a monograph. My long-term focus is the intersection of software, artificial intelligence, cybersecurity, LegalTech and RegTech.
 
 ## Current focus
