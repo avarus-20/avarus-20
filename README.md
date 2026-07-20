@@ -35,10 +35,12 @@ A Django-based platform for language-school workflows, including user roles, per
 
 ### Aurora Audit
 
-A Python CLI tool for authorized, read-only website auditing.
+A private Python CLI for authorized, read-only audits of websites and services.
 
-- **Status:** Active development
-- **Core areas:** HTTP security headers, TLS checks, YAML configuration, JSON Schema, SARIF reports, GitHub Actions and CI gates
+- **Status:** Pre-alpha / active development
+- **Implemented:** Reliability checks, HTTP security-header checks, TLS certificate checks, JSON/Markdown/HTML/SARIF reports, ignore rules and CI audit gates
+- **In progress:** The dedicated security baseline profile and release hardening
+- **Core areas:** Python, Typer, HTTP/TLS/DNS, YAML, JSON Schema, SARIF and GitHub Actions
 
 ### Private Python–MySQL Customer Management Application
 
