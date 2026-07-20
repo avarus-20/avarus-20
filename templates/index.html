@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Nutrition Tracker</title>
+</head>
+<body>
+  <h1>Nutrition Tracker</h1>
+  <form method="post">
+    <input type="text" name="food" placeholder="Food" required>
+    <input type="number" name="calories" placeholder="Calories" required>
+    <button type="submit">Add</button>
+  </form>
+
+  <h2>Meals</h2>
+  <ul>
+    {% for meal in meals %}
+      <li>{{ meal.food }} - {{ meal.calories }} calories</li>
+    {% endfor %}
+  </ul>
+
+  <p>Total calories: {{ total }}</p>
+</body>
+</html>

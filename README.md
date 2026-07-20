@@ -1,30 +1,28 @@
-# 🧮 Python Calculator
+# 🥗 Nutrition Tracker Web App
 
-This is a simple and user-friendly **calculator** written in Python. It supports basic mathematical operations, including addition, subtraction, multiplication, division, exponentiation, and modulus calculation.
+A simple web application to track meals and their calorie counts. Built with [Flask](https://flask.palletsprojects.com/).
 
----
+## Features
 
-## ⚙️ Features
+- Add meals with calorie information
+- Display list of meals entered during the session
+- Calculate total calorie intake
 
-- Addition (`+`)
-- Subtraction (`-`)
-- Multiplication (`*`)
-- Division (`/`)
-- Exponentiation (`**`)
-- Modulus (`%`)
-- Error handling:
-  - Division by zero
-  - Invalid number or operation input
-- Exit functionality (`exit`)
+## Requirements
 
----
+- Python 3
+- Flask (see `requirements.txt`)
 
-## 🚀 How to Run?
+## Running the app
 
-1. Make sure Python 3 is installed on your computer.  
-   You can download Python [here](https://www.python.org/downloads/).  
-
-2. Clone the repository to your local machine:
+1. Install dependencies:
    ```bash
-   git clone https://github.com/your_username/your_repository_name.git
-   cd your_repository_name
+   pip install -r requirements.txt
+   ```
+2. Start the server:
+   ```bash
+   python app.py
+   ```
+3. Open your browser at [http://localhost:5000](http://localhost:5000)
+
+Enjoy tracking your nutrition!
