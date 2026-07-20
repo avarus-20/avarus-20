@@ -40,6 +40,14 @@ A Python CLI tool for authorized, read-only website auditing.
 - **Status:** Active development
 - **Core areas:** HTTP security headers, TLS checks, YAML configuration, JSON Schema, SARIF reports, GitHub Actions and CI gates
 
+### Private Python–MySQL Customer Management Application
+
+A private desktop application for managing customer records in a MySQL database.
+
+- **Status:** Private study project
+- **Core areas:** Python, MySQL Connector, SQL CRUD operations, parameterized queries and PySimpleGUI
+- **Features:** Search, add, edit and delete customer records
+
 ### Nutrition App
 
 A mobile nutrition diary built with React Native, Expo and TypeScript.
