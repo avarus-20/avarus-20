@@ -2,7 +2,7 @@
 
 ICT Engineering student at Metropolia University of Applied Sciences, building practical projects in Python backend development, AI-assisted systems, cybersecurity and web applications.
 
-Before moving into ICT, I worked in Russia as an attorney, assistant to a justice of the peace, assistant to a federal judge and law lecturer. I am also an author and co-author of legal publications, a monograph and an administrative law practice book. My long-term focus is the intersection of software, artificial intelligence, cybersecurity, LegalTech and RegTech.
+Before moving into ICT, I built a professional background in legal practice, court-related work, advocacy and university teaching in Russia. I am also the author and co-author of legal academic publications, including a monograph. My long-term focus is the intersection of software, artificial intelligence, cybersecurity, LegalTech and RegTech.
 
 ## Current focus
 
