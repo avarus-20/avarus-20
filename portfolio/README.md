@@ -15,7 +15,7 @@ the safety boundaries, and the current status.
 | WordPress support | [WordPress Care Report](wordpress-care-report.md) | Defensive care reports for authorized WordPress maintenance work. |
 | Document systems | [Aurora Translate Pro](aurora-translate-pro.md) | Provider-based document translation with privacy-aware job handling. |
 | Data quality | [Data Migration Verifier](data-migration-verifier.md) | Read-only verification of SQL migration results using synthetic demos. |
-| Website quality | [Multilingual Web QA](multilingual-web-qa.md) | Safe checks for FI, EN, and RU site variants. |
+| Website quality | [Multilingual Web QA](multilingual-web-qa.md) | Safe checks for FI and EN site variants. |
 | Website operations | [WordPress Maintenance Lab](wordpress-maintenance.md) | Staging-first updates, rollback planning, and client-facing maintenance workflows. |
 
 ## Competencies demonstrated across the work
@@ -47,8 +47,7 @@ plain-language client reporting.
 ### Data, migration, and multilingual systems
 
 SQL reconciliation, synthetic data demonstrations, read-only database access, privacy-safe
-reporting, hreflang, canonical URLs, metadata checks, and Finnish/English/Russian website
-quality workflows.
+reporting, hreflang, canonical URLs, metadata checks, and Finnish/English website quality workflows.
 
 ## Safe disclosure policy
 
