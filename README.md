@@ -6,7 +6,7 @@ I build practical web applications, operational tools, and website-support workf
 My work combines Python backend development, web quality assurance, WordPress maintenance,
 privacy-aware reporting, and secure-by-design engineering practices.
 
-Based in Espoo, Finland · ICT Engineering student at Metropolia University of Applied Sciences.
+Based in Finland · ICT student at Metropolia University of Applied Sciences.
 
 > **[View the full project portfolio →](portfolio/README.md)**
 
@@ -75,3 +75,10 @@ work in WordPress support, website quality, automation, and security-minded web 
 
 - GitHub: [@avarus-20](https://github.com/avarus-20)
 - Portfolio: [project case studies](portfolio/README.md)
+
+## Portfolio material licence
+
+The profile text and case studies in this repository are © 2026 avarus-20. All rights reserved.
+They may be viewed on GitHub, but copying, adapting, translating, redistributing, or commercial
+reuse requires written permission. This applies only to this portfolio content; separately linked
+projects keep their own licence or terms.
