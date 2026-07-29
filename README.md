@@ -1,90 +1,73 @@
-# Hi, I'm Nail Mukhtarov
+# Nail Mukhtarov
 
-ICT Engineering student at Metropolia University of Applied Sciences, building practical projects in Python backend development, AI-assisted systems, cybersecurity, web applications and WordPress support.
+**Python & Web Developer · WordPress Support · Security-Minded Engineering**
 
-Current direction: secure Python and web systems, AI-assisted workflows, website auditing, and WordPress maintenance for small businesses.
+I build practical web applications, operational tools, and website-support workflows.
+My work combines Python backend development, web quality assurance, WordPress maintenance,
+privacy-aware reporting, and secure-by-design engineering practices.
 
-Before moving into ICT, I built a professional background in legal practice, court-related work, advocacy and university teaching in Russia. I am also the author and co-author of legal academic publications, including a monograph. My long-term focus is the intersection of software, artificial intelligence, cybersecurity, LegalTech and RegTech.
+Based in Espoo, Finland · ICT Engineering student at Metropolia University of Applied Sciences.
 
-## Current focus
+> **[View the full project portfolio →](portfolio/README.md)**
 
-- Python backend development
-- FastAPI and Django
-- SQL and relational databases
-- Linux, Git, GitHub and Docker
-- AI agent systems and workflow automation
-- Authentication, RBAC and secure software design
-- Automated testing and technical documentation
-- WordPress support, maintenance and troubleshooting for small-business websites
+## What I build
 
-## Selected projects
+- **Web and platform development** — Python, Django, FastAPI, SQL, REST-style services, React and Next.js.
+- **AI-assisted workflows and automation** — controlled product workflows, document-processing systems, and useful internal tools.
+- **WordPress support** — diagnostics, safe updates, backup and recovery planning, maintenance reports, and multilingual website QA.
+- **Application security** — authorization boundaries, secret hygiene, privacy-safe reporting, HTTP/TLS configuration checks, and authorized read-only assessments.
+- **Quality and delivery** — automated tests, static checks, GitHub Actions, technical documentation, Linux deployment foundations, and careful rollback planning.
 
-### Agent Panel
+## Selected work
 
-An AI-assisted platform for managing software projects, specialized agents and controlled development workflows.
+| Project | What it demonstrates |
+| --- | --- |
+| [Agent Panel](portfolio/agent-panel.md) | AI-assisted product workflows, RBAC, ownership boundaries, runtime gates, and automated testing. |
+| [Scargill English Platform](portfolio/scargill-english-platform.md) | Django platform development, permissions, scheduling, payments, and operational delivery. |
+| [Aurora Audit](portfolio/aurora-audit.md) | Authorization-gated, read-only security and reliability audit tooling. |
+| [WordPress Care Report](portfolio/wordpress-care-report.md) | Client-friendly WordPress health reporting with safe URL and data-handling boundaries. |
+| [Aurora Translate Pro](portfolio/aurora-translate-pro.md) | Secure document-processing workflow, provider abstraction, and privacy-aware downloads. |
+| [Data Migration Verifier](portfolio/data-migration-verifier.md) | Read-only SQL reconciliation and privacy-aware migration reporting. |
+| [Multilingual Web QA](portfolio/multilingual-web-qa.md) | Safe technical QA for Finnish, English, and Russian website variants. |
+| [WordPress Maintenance Lab](portfolio/wordpress-maintenance.md) | Staging-first maintenance, rollback verification, and repeatable client workflows. |
 
-- **Status:** Active development
-- **Current UI language:** Russian
-- **Planned:** English and Finnish localization
-- **Core areas:** FastAPI, Next.js, TypeScript, GitHub integration, runtime events, RBAC, ownership controls and automated testing
+See the [complete project index](portfolio/project-index.md) for active, private, public, learning, and superseded work.
 
-### Scargill English Platform
+## Technical focus
 
-A Django-based platform for language-school workflows, including user roles, permissions, invitations, scheduling and internal administrative processes.
+**Backend and data**
 
-- **Status:** Active development
-- **Core areas:** Django, authentication, permissions, scheduling, migrations, feature flags and automated tests
+Python · Django · FastAPI · SQL · PostgreSQL · MySQL/MariaDB · SQLite · CLI tools · JSON Schema
 
-### Aurora Audit
+**Web and frontend**
 
-A private Python CLI for authorized, read-only audits of websites and services.
+TypeScript · React · Next.js · React Native / Expo · HTML · CSS · Tailwind CSS · multilingual UX
 
-- **Status:** Pre-alpha / active development
-- **Implemented:** Reliability checks, HTTP security-header checks, TLS certificate checks, JSON/Markdown/HTML/SARIF reports, ignore rules and CI audit gates
-- **In progress:** The dedicated security baseline profile and release hardening
-- **Core areas:** Python, Typer, HTTP/TLS/DNS, YAML, JSON Schema, SARIF and GitHub Actions
+**Security and quality**
 
-### Private Python–MySQL Customer Management Application
+Authorization and RBAC · secure configuration · secret handling · HTTP security headers · TLS checks · redaction · pytest · Ruff · mypy · Playwright · GitHub Actions
 
-A private desktop application for managing customer records in a MySQL database.
+**Operations**
 
-- **Status:** Private study project
-- **Core areas:** Python, MySQL Connector, SQL CRUD operations, parameterized queries and PySimpleGUI
-- **Features:** Search, add, edit and delete customer records
+Linux · Docker · DDEV · WordPress · WP-CLI · Nginx · Gunicorn · systemd · Git · GitHub
 
-## WordPress freelance focus
+## How private work is presented
 
-I am building a practical portfolio for WordPress support for small businesses and service providers.
+Several projects remain private because they contain commercial logic, operational details,
+or security-sensitive implementation. Their public case studies describe the real problem,
+scope, architecture level, engineering practices, and current status — without exposing
+source code, credentials, customer data, internal URLs, configuration files, or scan results.
 
-- Website maintenance, troubleshooting and safe updates
-- Backup, recovery and migration workflows
-- Basic performance and security improvements
-- Small service websites and landing pages
-- Multilingual websites in Finnish, Russian and English
+I do not claim penetration-testing services or a guarantee that a system is completely secure.
+Security-related work is limited to explicitly authorized scope and is documented with clear
+boundaries.
 
-> Public WordPress case studies are being prepared.
+## Current direction
 
-## Education
-
-- **Bachelor of Engineering, Information and Communication Technology** — Metropolia University of Applied Sciences, ongoing; **204 of 240 ECTS completed, with 19 ECTS currently in progress**
-- **Further Vocational Qualification in Information and Communication Technology** — Finland, 150 competence points
-- **Specialist Degree in Law** — Saratov State Academy of Law, Russia
-- Russian legal education formally recognized in Finland by the Finnish National Agency for Education
-
-## Languages
-
-- **Tatar:** Native
-- **Russian:** Native or bilingual proficiency
-- **Finnish:** B1 / developing working proficiency
-- **English:** Basic, actively improving for international collaboration
-
-## Professional interests
-
-Python backend development, AI agents, cybersecurity, WordPress support, LegalTech, RegTech, compliance automation and secure digital services.
+I am building toward junior Python/web-development opportunities and carefully scoped freelance
+work in WordPress support, website quality, automation, and security-minded web engineering.
 
 ## Contact
 
 - GitHub: [@avarus-20](https://github.com/avarus-20)
-- LinkedIn: coming soon
-
-> My main projects are currently under active development. Public showcase repositories and English-language documentation are being prepared.
+- Portfolio: [project case studies](portfolio/README.md)
