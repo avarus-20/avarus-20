@@ -59,3 +59,9 @@ same confidentiality and security care expected in professional work.
 
 For the complete inventory — including learning projects and work intentionally not marketed as
 a production service — see the [project index](project-index.md).
+
+## Ownership and licence
+
+The portfolio text and case studies are © 2026 avarus-20 and are published under an
+[All Rights Reserved notice](../LICENSE.md). This does not change the licence or terms of any
+separately linked repository.
