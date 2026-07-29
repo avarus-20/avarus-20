@@ -33,6 +33,10 @@ Based in Espoo, Finland · ICT Engineering student at Metropolia University of A
 
 See the [complete project index](portfolio/project-index.md) for active, private, public, learning, and superseded work.
 
+## Public code sample
+
+- [Nutrition Tracker](https://github.com/avarus-20/nutrition-app-expo) — React Native/Expo/TypeScript prototype for local meal and calorie tracking.
+
 ## Technical focus
 
 **Backend and data**
