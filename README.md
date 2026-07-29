@@ -78,7 +78,7 @@ work in WordPress support, website quality, automation, and security-minded web 
 
 ## Portfolio material licence
 
-The profile text and case studies in this repository are © 2026 avarus-20. All rights reserved.
+The profile text and case studies in this repository are © 2026 Nail Muhtarov (avarus-20). All rights reserved.
 They may be viewed on GitHub, but copying, adapting, translating, redistributing, or commercial
 reuse requires written permission. This applies only to this portfolio content; separately linked
 projects keep their own licence or terms.
