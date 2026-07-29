@@ -14,7 +14,7 @@ that every early exercise is a production product.
 | [WordPress Care Report](wordpress-care-report.md) | WordPress health-report CLI | Beta-stage active development |
 | [Aurora Translate Pro](aurora-translate-pro.md) | Document translation and provider workflow | Active development |
 | [Data Migration Verifier](data-migration-verifier.md) | Read-only SQL migration reconciliation | Portfolio v1 / active development |
-| [Multilingual Web QA](multilingual-web-qa.md) | FI/EN/RU technical website QA | Portfolio v1 |
+| [Multilingual Web QA](multilingual-web-qa.md) | FI/EN technical website QA | Portfolio v1 |
 | [WordPress Maintenance Lab](wordpress-maintenance.md) | Staging-first website maintenance practice | Active development |
 
 ## Additional active or private work
