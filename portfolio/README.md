@@ -62,6 +62,6 @@ a production service — see the [project index](project-index.md).
 
 ## Ownership and licence
 
-The portfolio text and case studies are © 2026 avarus-20 and are published under an
+The portfolio text and case studies are © 2026 Nail Muhtarov (avarus-20) and are published under an
 [All Rights Reserved notice](../LICENSE.md). This does not change the licence or terms of any
 separately linked repository.
