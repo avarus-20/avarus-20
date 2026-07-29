@@ -5,8 +5,7 @@
 
 ## Purpose
 
-Multilingual Web QA is a read-only Python CLI for technical checks on Finnish, English, and
-Russian variants of a website. It starts with synthetic localhost fixtures so the workflow can
+Multilingual Web QA is a read-only Python CLI for technical checks on Finnish and English variants of a website. It starts with synthetic localhost fixtures so the workflow can
 be tested safely before any real-site audit is considered.
 
 ## What it checks
@@ -33,5 +32,5 @@ pytest · Ruff · mypy · deterministic JSON/Markdown reports
 ## What this demonstrates
 
 This tool turns multilingual website knowledge into repeatable QA. It is especially relevant to
-small businesses that need clear Finnish, English, and Russian page variants without silently
-breaking search, navigation, or forms.
+small businesses that need clear Finnish and English page variants without silently breaking search,
+navigation, or forms.
