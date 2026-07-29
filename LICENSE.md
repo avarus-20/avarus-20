@@ -1,6 +1,6 @@
 # Portfolio Materials — All Rights Reserved
 
-Copyright © 2026 avarus-20.
+Copyright © 2026 Nail Muhtarov (avarus-20).
 
 All rights reserved.
 
