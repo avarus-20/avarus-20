@@ -22,7 +22,7 @@ that every early exercise is a production product.
 | Project | What it represents | Status |
 | --- | --- | --- |
 | **Aliya Site** | Multilingual web application/site work with Next.js, React, TypeScript, next-intl, and Tailwind CSS. | Private · active development |
-| **Nutrition App Expo** | Public React Native/Expo/TypeScript calorie-tracker prototype with local storage, daily entries, history, and basic statistics. | Public learning project |
+| [Nutrition App Expo](https://github.com/avarus-20/nutrition-app-expo) | Public React Native/Expo/TypeScript calorie-tracker prototype with local storage, daily entries, history, and basic statistics. | Public learning project |
 | **MySQL-tietokantaan** | Private Python/MySQL desktop learning project covering CRUD, parameterized queries, and a simple GUI. | Learning project |
 | **AIL WordPress Support** | Early private WordPress-support workspace; it is not presented as a separate client delivery until its public-ready scope and documentation are complete. | Exploratory / not marketed separately |
 | **my-js-app** | Small JavaScript API experiment. | Learning project |
