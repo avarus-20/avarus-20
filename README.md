@@ -26,7 +26,7 @@ Based in Finland · ICT student at Metropolia University of Applied Sciences.
 | [WordPress Care Report](portfolio/wordpress-care-report.md) | Client-friendly WordPress health reporting with safe URL and data-handling boundaries. |
 | [Aurora Translate Pro](portfolio/aurora-translate-pro.md) | Secure document-processing workflow, provider abstraction, and privacy-aware downloads. |
 | [Data Migration Verifier](portfolio/data-migration-verifier.md) | Read-only SQL reconciliation and privacy-aware migration reporting. |
-| [Multilingual Web QA](portfolio/multilingual-web-qa.md) | Safe technical QA for Finnish, English, and Russian website variants. |
+| [Multilingual Web QA](portfolio/multilingual-web-qa.md) | Safe technical QA for Finnish and English website variants. |
 | [WordPress Maintenance Lab](portfolio/wordpress-maintenance.md) | Staging-first maintenance, rollback verification, and repeatable client workflows. |
 
 See the [complete project index](portfolio/project-index.md) for active, private, public, learning, and superseded work.
