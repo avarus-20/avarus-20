@@ -1,22 +1,20 @@
 # Nail Mukhtarov
 
-**Python & Web Developer · WordPress Support · Security-Minded Engineering**
+## Python & Web Developer · Security-Minded Engineering · WordPress & Web Operations
 
-I build practical web applications, operational tools, and website-support workflows.
-My work combines Python backend development, web quality assurance, WordPress maintenance,
-privacy-aware reporting, and secure-by-design engineering practices.
+> I build practical web products and reliable operational tools — from Python backends and AI-assisted workflows to secure website support and privacy-aware reporting.
+
+### Strengths at a glance
+
+- **Build** — Python, Django, FastAPI, SQL, REST-style services, React, Next.js, and AI-assisted automation.
+- **Secure** — authorization and RBAC, explicit scope boundaries, secret hygiene, privacy-safe reporting, HTTP/TLS configuration checks, and authorized read-only assessments.
+- **Maintain** — WordPress diagnostics, safe updates, backup and recovery planning, multilingual website QA, and clear maintenance reports.
+- **Deliver** — automated tests, static analysis, GitHub Actions, technical documentation, Linux/Docker foundations, and rollback planning.
+- **Communicate clearly** — legal and academic background, structured analysis, client-ready documentation, and practical risk awareness.
 
 Based in Finland · ICT student at Metropolia University of Applied Sciences.
 
-> **[View the full project portfolio →](portfolio/README.md)**
-
-## What I build
-
-- **Web and platform development** — Python, Django, FastAPI, SQL, REST-style services, React and Next.js.
-- **AI-assisted workflows and automation** — controlled product workflows, document-processing systems, and useful internal tools.
-- **WordPress support** — diagnostics, safe updates, backup and recovery planning, maintenance reports, and multilingual website QA.
-- **Application security** — authorization boundaries, secret hygiene, privacy-safe reporting, HTTP/TLS configuration checks, and authorized read-only assessments.
-- **Quality and delivery** — automated tests, static checks, GitHub Actions, technical documentation, Linux deployment foundations, and careful rollback planning.
+> **[Explore the full project portfolio →](portfolio/README.md)**
 
 ## Selected work
 
